@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "光泽县疾控中心"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
