@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "光泽县疾控中心"
 weight = 1
 languageName = "English"
 
