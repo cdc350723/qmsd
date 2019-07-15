@@ -2,7 +2,7 @@
 title= "质量手册"
 date= 2018-10-31T10:07:53+08:00
 description = ""
-draft= false
+draft= true
 weight= 1
 chapter= true
 # head ="<label></label> "

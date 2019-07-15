@@ -2,7 +2,7 @@
 title= "质量体系要素"
 date= 2018-10-31T17:36:08+08:00
 description = ""
-draft= false
+draft= true
 weight= 4
 chapter= true
 # head ="<label></label> "
