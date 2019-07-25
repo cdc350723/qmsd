@@ -61,7 +61,7 @@ url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
 
 [[Languages.cn.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
+name = "<i class='fas fa-fw fa-camera'></i> 展示"
 url = "/showcase"
 weight = 11
 
