@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
+languageCode = "zh-CN"
+defaultContentLanguage = "cn"
 
 title = "光泽县疾控中心"
 theme = "hugo-theme-learn"
@@ -23,8 +23,8 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "光泽县疾控中心"
-weight = 1
+title = "Guangze CDC"
+weight = 2
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
@@ -49,29 +49,29 @@ name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
 url = "/credits"
 weight = 30
 
-[Languages.fr]
-title = "Documentation du thème Hugo Learn"
-weight = 2
-languageName = "Français"
+[Languages.cn]
+title = "光泽县疾控中心"
+weight = 1
+languageName = "Chinese"
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Repo Github"
+[[Languages.cn.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Github 仓库"
 identifier = "ds"
 url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
 
-[[Languages.fr.menu.shortcuts]]
+[[Languages.cn.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
 url = "/showcase"
 weight = 11
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
+[[Languages.cn.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo技术文档"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+[[Languages.cn.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> 制作人员"
 url = "/credits"
 weight = 30
